@@ -1,5 +1,4 @@
-# creations
-My creations on WWW
+# My creations on WWW
 
 [My Stylized CV](https://anmolsahu2k.github.io/)
 
@@ -12,6 +11,8 @@ My creations on WWW
 [Simon Game App](https://anmolsahu2k.github.io/simongame/)
 
 [Dice Game App](https://anmolsahu2k.github.io/dicegame/)
+
+[Museum of Candy App](https://anmolsahu2k.github.io/museum-of-candy/)
 
 [My Basic CV](https://anmolsahu2k.github.io/BasicCV/)
 
